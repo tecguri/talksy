@@ -1,6 +1,6 @@
 ## 🗨️ Talksy
 
-*Talksy* is a real-time chat application built using *Node.js*, *Express*, and *Socket.IO*, designed to provide seamless and instant communication between users. Whether you're chatting one-on-one or planning to extend it to group conversations, Talksy offers a lightweight and scalable foundation for modern messaging apps.
+**Talksy** is a real-time chat application built using *Node.js*, *Express*, and *Socket.IO*, designed to provide seamless and instant communication between users. Whether you're chatting one-on-one or planning to extend it to group conversations, Talksy offers a lightweight and scalable foundation for modern messaging apps.
 
 ### ✨ Features
 
@@ -11,10 +11,10 @@
 
 ### 🧱 Tech Stack
 
-* *Backend*: Node.js, Express.js
-* *WebSockets*: Socket.IO
-* *Frontend*: HTML, CSS, JavaScript (Vanilla or optionally frameworks like React)
-* *Deployment*: Easily deployable to platforms like Heroku, Render, or Vercel
+* **Backend**: Node.js, Express.js
+* **WebSockets**: Socket.IO
+* **Frontend**: HTML, CSS, JavaScript (Vanilla or optionally frameworks like React)
+* **Deployment**: Easily deployable to platforms like Heroku, Render, or Vercel
 
 ### 🚀 Getting Started
 
@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/talksy.git
 cd talksy
 npm install
 npm start
-
+```
 
 Open your browser and navigate to `http://localhost:2626` to start using Talksy.
 
