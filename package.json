@@ -1,0 +1,28 @@
+{
+  "name": "talksy",
+  "version": "1.0.0",
+  "description": "This is a simple chat application built with Node.js, Express, and Socket.IO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecguri/talksy.git"
+  },
+  "keywords": [
+    "messaging",
+    "chat",
+    "application"
+  ],
+  "author": "tecguri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tecguri/talksy/issues"
+  },
+  "homepage": "https://github.com/tecguri/talksy#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
