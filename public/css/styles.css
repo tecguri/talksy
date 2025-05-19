@@ -1,0 +1,22 @@
+/* Basic CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+
+button {
+  background: #4E4CF1;
+  background: linear-gradient(90deg, rgba(78, 76, 241, 1) 62%, rgba(94, 203, 238, 1) 100%);
+  border: none !important;
+  color: #f9f9f9 !important;
+  font-size: 1.25rem !important;
+  font-weight: 500 !important;
+}

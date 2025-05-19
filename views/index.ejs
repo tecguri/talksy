@@ -1,0 +1,23 @@
+<%- include('header')%>
+
+    <div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card p-4 shadow" style="width: 100%; max-width: 400px;">
+        <div class="text-center w-100">
+            <img src="../public/logo.png" height="150px" width="180px" />
+        </div>
+      <h5 class="card-title text-center mb-4">Login / Register</h5>
+      <form method="post" action="/">
+        <div class="mb-3">
+          <label for="exampleInputText" class="form-label fw-bold">Username</label>
+          <input type="text" name="username" placeholder="username" class="form-control" id="exampleInputText" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPin" class="form-label">Pin</label>
+          <input type="password" name="pin" placeholder="****" class="form-control" id="exampleInputPin">
+        </div>
+        <button type="submit" class="btn w-100">Hop In</button>
+      </form>
+    </div>
+  </div>
+
+<%- include('footer')%>
